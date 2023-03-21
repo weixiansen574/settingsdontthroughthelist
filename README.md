@@ -1,0 +1,2 @@
+# settingsdontthroughthelist
+设置授权免翻应用列表
